@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Token Generator</string>
+
+    <string name="welcome_to_token_generator">Welcome to Token Generator!</string>
+    <string name="title_of_generator_token">Generate Token</string>
+    <string name="boton_ver_token">Generate new Token</string>
+    <string name="mostrar_token">Token Generated</string>
+
+    <string name="New_token_name">Add New Token Name</string>
+    <string name="EntradaTexto">Type new name</string>
+    <string name="BotonAdd">Add New Token Name</string>
+
+    <string name="BotonGenerar">Generate Token</string>
+    <string name="BotonNuevo">Add New Token Name</string>
+    <string name="textview">TextView</string>
+    <string name="token_generated"><![CDATA[<token generated>]]></string>
+
+
+    <string-array name="valores_token">Select a token name
+        <item>Token1</item>
+        <item>Token2</item>
+        <item>Token3</item>
+        <item>Token4</item>
+        <item>Token5</item>
+    </string-array>
+</resources>
