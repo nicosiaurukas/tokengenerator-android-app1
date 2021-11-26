@@ -14,13 +14,10 @@
     <string name="BotonNuevo">Add New Token Name</string>
     <string name="textview">TextView</string>
     <string name="token_generated"><![CDATA[<token generated>]]></string>
+    <string name="editTextview">hint</string>
 
 
-    <string-array name="valores_token">Select a token name
-        <item>Token1</item>
-        <item>Token2</item>
-        <item>Token3</item>
-        <item>Token4</item>
-        <item>Token5</item>
+    <string-array name="valores_token">
+
     </string-array>
 </resources>
